@@ -1,0 +1,26 @@
+package org.sof;
+
+public class Multimedia extends DigitalMarketing {
+	 void adobePhotoshop() 
+	 {
+		 System.out.println("Adobe Photoshop is used for animation design");
+	}
+	 void indesign() {
+		System.out.println("Design is used to view the website attractive");
+
+	}
+
+	public static void main(String[] args) {
+		Multimedia media = new Multimedia();
+		media.adobePhotoshop();
+		media.indesign();
+		media.contentMarketing();
+		media.searchEngine();
+		media.coreJava();
+		media.advanceJava();
+		media.manualTesting();
+		media.automationTesting();
+
+	}
+
+}

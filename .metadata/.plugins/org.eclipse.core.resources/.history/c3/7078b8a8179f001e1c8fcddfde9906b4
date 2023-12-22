@@ -1,0 +1,14 @@
+package org.sof;
+
+public class Manual {
+	void sdlc()
+	{
+		System.out.println("Learn SDLC");
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
